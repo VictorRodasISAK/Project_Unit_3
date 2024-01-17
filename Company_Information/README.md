@@ -19,14 +19,13 @@ performance on the badminton court.
 **Product Excellence:**
 At Airborne Athletics, we take pride in our commitment to innovation and quality. Our badminton rackets are meticulously 
 crafted using cutting-edge materials such as high-grade graphite and carbon fiber composites. The result is a range of 
-rackets that offer the perfect fusion of lightweight agility and robust durability, enabling players to unleash their 
+rackets that offer the perfect fusion of lightweight agility and robust durability, enabling players to show their 
 full potential with every swing.
 
 **Technology and Design:**
-Our design philosophy revolves around merging state-of-the-art technology with sleek aesthetics. Airborne Athletics 
-rackets feature advanced engineering, T-joint integration for enhanced stability, and aerodynamic frames for faster swing
-speeds. The meticulous attention to detail in both design and construction ensures a superior playing experience for all 
-skill levels.
+Airborne Athletics rackets feature advanced engineering, T-joint integration for enhanced stability, and aerodynamic 
+frames for faster swing speeds. The meticulous attention to detail in both design and construction ensures a superior 
+playing experience for all skill levels.
 
 **Versatility and Performance:**
 Whether you're a casual player seeking recreational enjoyment or a competitive athlete aiming for excellence, Airborne 
@@ -47,7 +46,7 @@ of technology, style, and performance.
 Airborne Athletics — Where Agility Takes Flight on the Badminton Court!
 
 
-### Materials
+## Materials
 
 
 1. **Frame Material:**
@@ -86,4 +85,12 @@ Airborne Athletics — Where Agility Takes Flight on the Badminton Court!
 **Fig.2** *Parts of a badminton racket* [^1]
 
 
-[^1]: “Basic Equipment of Badminton: An Overview: Badminton Racket, Badminton, Exercise for Kids.” Pinterest, 18 Mar. 2022, in.pinterest.com/pin/basic-equipment-of-badminton-an-overview--795307615456484418/. 
+[^1]: “Basic Equipment of Badminton: An Overview: Badminton Racket, Badminton, Exercise for Kids.” Pinterest, 18 Mar. 2022, in.pinterest.com/pin/basic-equipment-of-badminton-an-overview--795307615456484418/.
+
+
+## What I need?
+
+- I need a person who can develop an application where the customer can see the different options of rackets. 
+- Another option is where the customer can request for a personalized racket, so then the person will choose all the things that the person wants to make it especial and comfortable.
+- The next option requires entering the budget available for the customer. So with the range of budget available, show the different types of rackets that the person can get.
+- The last option involves the strings for the racket, showing the ones available for that model, and gives the suggestion of the tension for the strings.
