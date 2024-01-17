@@ -31,3 +31,8 @@ on user experiences.
 - Snake Game with joysticks *Working with a team of two members*
 - Remote-controlled car *Working with a team of two members*
 - Proximity walking stick *Working with a team of three members*
+
+
+## Contact information
+- Email: 2025.victor.daniel.rodas.barrios@uwcisak.jp
+- Phone number: (+502) 3453-3245
