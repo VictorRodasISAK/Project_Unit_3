@@ -94,3 +94,7 @@ Airborne Athletics — Where Agility Takes Flight on the Badminton Court!
 - Another option is where the customer can request for a personalized racket, so then the person will choose all the things that the person wants to make it especial and comfortable.
 - The next option requires entering the budget available for the customer. So with the range of budget available, show the different types of rackets that the person can get.
 - The last option involves the strings for the racket, showing the ones available for that model, and gives the suggestion of the tension for the strings.
+
+## Website Developed by:
+
+*Edvards Rokens (Rocky)* 
