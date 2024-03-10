@@ -75,18 +75,30 @@ and will be evaluated with the success criteria shown below.
 ## Success Criteria
 
 
-s TT a [issue tackled: "Finally, because there is confidential information, he wants to have a system
+1) The application will have a login system where only the employees can access the information by using a username and a password. [issue tackled: "Finally, because there is confidential information, he wants to have a system
 that is secure and only the employees can access the information by using an username and a password."]
+
+
 2) The application will have a system to keep track of the sales, inventory, clients, purchases, and employees. [issue tackled: "having problems
 with the record of sales, inventory, clients and purchases."]
+
+
 3) The application will have a system to update the materials to produce the rackets, and check the availability of the materials. [issue tackled: "when trying to update the materials to produce the rackets,
 he has to check the availability of the materials, but sometimes, the information that he gets is incorrect."]
+
+
 4) The application will have a system to keep track of the schedule of the employees. [issue tackled: "Sometimes he needs the assistance of his employees to solve some problems,
 but he does not have a way to track the schedule of his employees."]
+
+
 5) The application will have a system to keep updated the data of the customers and the new customers to offer future promotions. [issue tackled: "Moreover, most of the time
 he wants to keep the information of his customers in a table to offer future promotions, but he does not have a system to remember the customers."]
+
+
 6) The application will have a button to print the information of Purchases and Orders Table. [issue tackled: "He is using a spreadsheet in a MacBook Air (2017) to keep track of this information, 
 making it hard and time-consuming to find and track the information of purchases and sales"]
+
+
 7) The application will have a screen where the user can produce the racket with the material and the color that the customer wants. [issue tackled: "Also, when trying to update the materials to produce the rackets,
 he has to check the availability of the materials, but sometimes, the information that he gets is incorrect."]
 
